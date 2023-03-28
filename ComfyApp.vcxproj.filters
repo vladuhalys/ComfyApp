@@ -29,5 +29,17 @@
     <ClInclude Include="library.h">
       <Filter>internal</Filter>
     </ClInclude>
+    <ClInclude Include="Phone.h">
+      <Filter>domain\models</Filter>
+    </ClInclude>
+    <ClInclude Include="Account.h">
+      <Filter>domain\models</Filter>
+    </ClInclude>
+    <ClInclude Include="User.h">
+      <Filter>domain\models</Filter>
+    </ClInclude>
+    <ClInclude Include="Admin.h">
+      <Filter>domain\models</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
